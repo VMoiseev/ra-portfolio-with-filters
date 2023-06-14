@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/ra-portfolio-with-filters/static/css/main.a6ed37a8.css",
+    "main.js": "/ra-portfolio-with-filters/static/js/main.a8a09414.js",
+    "index.html": "/ra-portfolio-with-filters/index.html",
+    "main.a6ed37a8.css.map": "/ra-portfolio-with-filters/static/css/main.a6ed37a8.css.map",
+    "main.a8a09414.js.map": "/ra-portfolio-with-filters/static/js/main.a8a09414.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a6ed37a8.css",
+    "static/js/main.a8a09414.js"
+  ]
+}
