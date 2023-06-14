@@ -1,3 +1,5 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/g8h3h18d3aft065i?svg=true)](https://ci.appveyor.com/project/VMoiseev/ra-portfolio-with-filters)
+## [Проект](https://vmoiseev.github.io/ra-portfolio-with-filters/)
 Портфолио с фильтрами
 ===
 Необходимо реализовать портфолио с фильтрами, аналогичное указанному на изображении.
