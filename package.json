@@ -18,6 +18,7 @@
     "test": "react-scripts test",
     "eject": "react-scripts eject"
   },
+  "homepage":"https://vmoiseev.github.io/ra-portfolio-with-filters/",
   "eslintConfig": {
     "extends": [
       "react-app",
